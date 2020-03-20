@@ -13,4 +13,7 @@
  db.createCollection('guest_signatures')
  
  npx express-generator
+ npm i
+ touch .gitignore  # add node_modules
+ npm start
  
