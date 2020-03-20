@@ -7,4 +7,10 @@
  brew services list
  mongo
  
+ show dbs
+ use signatures
+ show collections
+ db.createCollection('guest_signatures')
+ 
+ npx express-generator
  
