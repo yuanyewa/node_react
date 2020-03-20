@@ -17,3 +17,10 @@
  touch .gitignore  # add node_modules
  npm start
  
+https://dev.to/pacheco/my-fullstack-setup-node-js-react-js-and-mongodb-2a4k
+npm init -y
+npm install express body-parser mongoose
+npm install --save-dev nodemon concurrently
+mkdir models routes
+touch index.js
+
